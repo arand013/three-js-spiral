@@ -139,8 +139,8 @@ const tick = () => {
 
 
     if (mouseX > 0) {
-        particlesMesh.rotation.x = -mouseY * (elapsedTime * .000075)
-        particlesMesh.rotation.y = -mouseX * (elapsedTime * .000075)
+        particlesMesh.rotation.x = -mouseY * (elapsedTime * .000025)
+        particlesMesh.rotation.y = -mouseX * (elapsedTime * .000025)
     }
     // Update Orbital Controls
     // controls.update()
