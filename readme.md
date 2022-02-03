@@ -1,5 +1,5 @@
 # Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+Visit Page Here: https://arand013.github.io/three-js-spiral/ 
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
